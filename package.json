@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "dotenv": "^17.4.2"
+    "-": "^0.0.1-security.1",
+    "D": "^1.0.0",
+    "dotenv": "^17.4.2",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
   }
 }
