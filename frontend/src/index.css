@@ -1,0 +1,17 @@
+:root {
+    /* Identidade */
+    --laranja: #D97745;
+    --pessego: #F4B183;
+    --amarelo: #F6D365;
+
+    /* Estrutura */
+    --creme: #FFF8F0;
+    --branco: #FFFFFF;
+
+    /* Texto */
+    --marrom: #3D2B24;
+
+    /* Estados */
+    --sucesso: #86A789;
+    --erro: #D98282;
+}
