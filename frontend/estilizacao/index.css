@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;
+    p {
+        color: var(--pessego)
+    }
+    h3 {
+        color: var(--marrom)
+    }
+}
+
+:root {
+    /* Identidade */
+    --laranja: #D97745;
+    --pessego: #F4B183;
+    --amarelo: #F6D365;
+
+    /* Estrutura */
+    --creme: #FFF8F0;
+    --branco: #FFFFFF;
+
+    /* Texto */
+    --marrom: #3D2B24;
+
+    /* Estados */
+    --sucesso: #86A789;
+    --erro: #D98282;
+}
+
+body {
+    background-color: var(--pessego);
+}
+
+main {
+    width: 80%;
+    background-color: var(--creme);
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+.preenchimento {
+    width: 20%;
+    padding: 10px 5px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #cdc7c1;
+}
+
+input{
+    border: none;
+    background-color: #cdc7c1;
+}
+
+input:active {
+    border: none;
+}
+
+button {
+    margin: 100px 2px;
+    padding: 10px 140px;
+    background-color: #cdc7c1;
+    border: none;
+    border-radius: 5px;    
+}
